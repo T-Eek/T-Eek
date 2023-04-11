@@ -1,5 +1,5 @@
 <h1> Hello there 👋</h1>
-<div><b>I'm <a href="https://github.com/T-Eek">T-Eek</a></b> and I welcome you to my <b><i>README.md</i></b> (this file).<br></div>
+<div>I'm <a href="https://github.com/T-Eek">T-Eek</a></b> and I welcome you to my <b><i>README.md</i></b> (this file).<br></div>
 I'm a software developer student, working on different projects.<br>
   
   #
