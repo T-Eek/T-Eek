@@ -18,7 +18,7 @@ I'm a software developer student, working on different projects.<br>
   </div>
           
 ⮚ 👯 My interests are: <b><i>gaming 🎮/💻| drawing✍| editing🎬|</i></b><br>
-⮚ ⚡ Fun fact: Sometime when you close your eyes you can't see
+⮚ ⚡ Fun fact:<i>〃 Sometime when you close your eyes you can't see 〃</i>
 
 
 <!--
