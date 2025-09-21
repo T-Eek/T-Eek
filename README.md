@@ -1,8 +1,8 @@
 <h1> Hello there 👋</h1>
-<div>I'm <a href="https://github.com/T-Eek">@T-Eek</a></b> and I welcome you to my <b><i>README.md</i></b> (this file).<br></div>
+<div>I'm <b><a href="https://github.com/T-Eek">@T-Eek</a></b> and I welcome you to my <b><i>README.md</i></b> (this file).<br></div>
 I'm studing at the <b>University of Applied Sciences in Amsterdam</b> (<b>HVA</b>) for short... <br />
 Im a chill & or funny guy 😌. <b><i>"panik"</i></b> 🚫 <b><i>*Calm & collected*</i></b> ✅<br>
-  
+
   #
   <div>
     ⮚ 📈 Learning is a gived albilaty that will always be a part of you, that is why I want to show/ share my projects here, <br/>
@@ -52,7 +52,8 @@ Im a chill & or funny guy 😌. <b><i>"panik"</i></b> 🚫 <b><i>*Calm & collect
           
 ⮚ 👯 My interests are: <b><i>gaming 🎮/💻| drawing✍| editing🎬| Creating 💡</i></b><br>
 ⮚ ⚡ Fun fact:<i>〃 Sometime when you close your eyes you can't see 〃</i>
-
+<h3>Socials</h3>
+~ Spotify: <a href="https://open.spotify.com/user/31qr3juv5tnoydsqun3yddr2bug4">imToine</a>
 
 <!--
 **T-Eek/T-Eek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
