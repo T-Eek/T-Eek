@@ -1,6 +1,6 @@
 <h1> Hello there 👋</h1>
 <div>I'm <b><a href="https://github.com/T-Eek">@T-Eek</a></b> and I welcome you to my <b><i>README.md</i></b> (this file).<br></div>
-I'm studing at the <b>University of Applied Sciences in Amsterdam</b> (<b>HVA</b>) for short... <br />
+I'm currently studing at the <b>University of Applied Sciences in Amsterdam</b> (<b>HVA</b>) for short... <br />
 Im a chill & or funny guy 😌. <b><i>"panik"</i></b> 🚫 <b><i>*Calm & collected*</i></b> ✅<br>
 
   #
